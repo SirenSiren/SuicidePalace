@@ -1,4 +1,4 @@
-SuicidePalace
-=============
+Modern-Business-Example
+=======================
 
-To be continued.
+Example Template for Modern Business
